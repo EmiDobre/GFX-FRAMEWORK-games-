@@ -48,7 +48,7 @@ The more complex games built using these concepts are:
 
 How to run: 
 -
-- 
+- main.cpp: in src directory the main file is needed to select the lab work/or project to run 
 - the directories here are not enough to run this project, first thing first the gfx framework is needed: https://github.com/UPB-Graphics/gfx-framework
 - an IDE is needed to modify the code/ or to run if cmake is already installed: Visual Studio (Community version) https://visualstudio.microsoft.com/downloads/
 - instead of a makefile to run the project it is needed: https://cmake.org/download/
